@@ -1,5 +1,5 @@
 /**
- * File : PersegiPanjang.java 08/03/2023
+ * File : Segitiga.java 08/03/2023
  * Penulis : Niko Geraldi Sinabariba
  * Deskripsi : representasi dari objek persegi panjang, turunan kelas poligon
  */
